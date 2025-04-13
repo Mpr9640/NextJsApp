@@ -1,0 +1,2 @@
+# NextJsApp
+Invoice Dashboard
